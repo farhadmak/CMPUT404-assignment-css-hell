@@ -21,4 +21,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+=================
+
+The modification that had to be made was this line:
+
+`<link rel="stylesheet" type="text/css" href="style.css" />`
+
+So the html file knows where to look for an external css file
+
 
