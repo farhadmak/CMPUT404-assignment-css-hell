@@ -1,0 +1,68 @@
+html {
+    background-image: url("images/uglybackground.jpg");
+}
+
+h1 {
+    font-family: 'Ruge Boogie', cursive;
+}
+
+p, li {
+    font-family: 'Amatic SC', cursive;
+}
+
+.menu-bar {
+    box-shadow: 1px;
+    float: right;
+    width: 40%;
+}
+
+.off-white {
+    background-color: #fd8888;
+}
+
+.white {
+    background-color: #88adff;
+}
+
+.name {
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 15%;
+}
+
+.menu-item {
+    color: white;
+    text-decoration: none;
+}
+
+.top {
+    top: 0;
+    background-color: rgb(9, 255, 0);
+    color: white;
+    padding: 20px;
+    margin: -10px -10px 0px -10px;
+}
+
+.menu-item {
+    padding: 5px;
+}
+
+.section-container {
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 240px;
+}
+
+.text-container {
+    width: 66%;
+    float: right;
+}
+
+img {
+    width: 30%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 16px;
+}
