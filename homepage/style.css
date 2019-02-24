@@ -9,6 +9,14 @@ html, body{
     width: 40%;
 }
 
+.off-white {
+    background-color: #f3f3f3;
+}
+
+.white {
+    background-color: #ffffff;
+}
+
 .name {
     font-size: 20px;
     display: inline-block;
