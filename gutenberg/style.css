@@ -18,3 +18,7 @@ h1 {
 img {
     border-radius: 40px;
 }
+
+.caption {
+    font-family: Verdana,sans-serif;
+}
