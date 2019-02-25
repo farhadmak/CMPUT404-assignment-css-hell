@@ -10,6 +10,7 @@ p, li {
     font-family: 'Amatic SC', cursive;
 }
 
+
 .menu-bar {
     box-shadow: 1px;
     float: right;
@@ -35,6 +36,19 @@ p, li {
     text-decoration: none;
 }
 
+.vertical-side-bar {
+    height: 100%;
+    width: 20%;
+    position: absolute;
+    padding: 10px;
+    background-color: rgb(230, 230, 230);
+    border-radius: 10%;
+}
+
+.sidebar-content  {
+    padding-left: 30px;
+}
+
 .top {
     top: 0;
     background-color: rgb(9, 255, 0);
@@ -52,7 +66,7 @@ p, li {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    height: 240px;
+    height: 320px;
 }
 
 .text-container {

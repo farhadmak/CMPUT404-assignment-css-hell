@@ -9,6 +9,19 @@ html, body{
     width: 40%;
 }
 
+.vertical-side-bar {
+    height: 100%;
+    width: 20%;
+    position: absolute;
+    padding: 10px;
+    background-color: rgb(230, 230, 230);
+    border-radius: 10%;
+}
+
+.sidebar-content  {
+    padding-left: 30px;
+}
+
 .off-white {
     background-color: #f3f3f3;
 }
@@ -45,7 +58,7 @@ html, body{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    height: 240px;
+    height: 260px;
 }
 
 .text-container {
